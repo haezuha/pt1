@@ -53,25 +53,34 @@ ob_start();
                 </div>
  
                 <div class="col-md-3">
-                    <label for="product_condition" class="form-label">Strap Theme <span class="text-danger" aria-hidden="true">*</span></label>
-                    <select name="product_condition" id="product_condition" class="form-select" required>
+                    <label for="strap_theme" class="form-label">Strap Theme <span class="text-danger" aria-hidden="true">*</span></label>
+                    <select name="strap_theme" id="strap_theme" class="form-select" required>
                         <option value="">Select Theme</option>
-                        <option value="New">New</option>
-                        <option value="Used">Used</option>
+                        <option value="army">army camo</option>
+                        <option value="black">black</option>
+                        <option value="blue_camo">blue camo</option>
+                        <option value="denim">denim</option>
+                        <option value="lining">lining</option>
+                        <option value="matcha">matcha</option>
+                        <option value="og">og</option>
+                        <option value="pink">pink</option>
+                        <option value="red">red</option>
+                        <option value="yellow">yellow</option>
                     </select>
                 </div>
  
                 <div class="col-md-3">
-                    <label for="year" class="form-label">Chalk Option <span class="text-danger" aria-hidden="true">*</span></label>
-                    <select name="product_year" id="year" class="form-select" required>
+                    <label for="chalk_option" class="form-label">Chalk Option <span class="text-danger" aria-hidden="true">*</span></label>
+                    <select name="chalk_option" id="chalk_option" class="form-select" required>
                         <option value="">Select Option</option>
-                        <option value="2020">2020</option>
-                        <option value="2021">2021</option>
-                        <option value="2022">2022</option>
-                        <option value="2023">2023</option>
-                        <option value="2024">2024</option>
-                        <option value="2025">2025</option>
-                        <option value="2026">2026</option>
+                        <option value="500g_chalk">500g Chalk</option>
+                        <option value="600g_chalk">600g Chalk</option>
+                        <option value="800ml_liquid">800ml Liquid</option>
+                        <option value="1kg_chalk">1kg Chalk</option>
+                        <option value="400g_chalk">400g Chalk</option>
+                        <option value="200g_ball">200g Ball</option>
+                        <option value="20g_tablet">20g Tablet</option>
+                        <option value="200g_chalk">200g Chalk</option>
                     </select>
                 </div>
                  
