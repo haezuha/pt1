@@ -23,25 +23,25 @@
             </li>
             <li class="nav-item mb-3">
               <a href="products.php" class="text-decoration-none text-white">
-                <i class="bi bi-bar-chart-line-fill me-2"></i>
+                <i class="bi bi-collection me-2"></i>
                 Products
               </a>
             </li>
             <li class="nav-item mb-3">
               <a href="customers.php" class="text-decoration-none text-white">
-                <i class="bi bi-bar-chart-line-fill me-2"></i>
+                <i class="bi bi-people-fill me-2"></i>
                 customers
               </a>
             </li>
             <li class="nav-item mb-3">
               <a href="staffs.php" class="text-decoration-none text-white">
-                <i class="bi bi-bar-chart-line-fill me-2"></i>
+                <i class="bi  bi-person-badge me-2"></i>
                 Staffs
               </a>
             </li>
             <li class="nav-item mb-3">
               <a href="orders.php" class="text-decoration-none text-white">
-                <i class="bi bi-bar-chart-line-fill me-2"></i>
+                <i class="bi bi-receipt me-2"></i>
                 Orders
               </a>
             </li>
