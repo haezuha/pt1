@@ -1,8 +1,9 @@
 <div id="mySidebar" class="col-auto bg-dark text-white offcanvas-lg offcanvas-start">
         <div class="p-4">
           <a href="#" class="navbar-brand">
-            <div class="row">
-              <h5 class="">EsooFit</h5>
+            <div class="d-flex align-items-center gap-2">
+              <img src="images/EsooFit logo.jpg" alt="EsooFit logo" class="rounded-circle" width="40" height="40">
+              <h5 class="mb-0">EsooFit</h5>
             </div>
           </a>
  
